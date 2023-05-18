@@ -64,7 +64,7 @@
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="yes"/>
 <layer number="94" name="Symbols" color="4" fill="1" visible="yes" active="yes"/>
-<layer number="95" name="Names" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="95" name="Names" color="7" fill="1" visible="no" active="yes"/>
 <layer number="96" name="Values" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="97" name="Info" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="98" name="Guide" color="6" fill="1" visible="yes" active="yes"/>
@@ -6095,7 +6095,7 @@ Standard 3-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <part name="JP6" library="adafruit" deviceset="PINHD-1X3" device=""/>
 <part name="JP7" library="adafruit" deviceset="PINHD-1X3" device=""/>
 <part name="JP8" library="adafruit" deviceset="PINHD-1X3" device=""/>
-<part name="L2" library="SparkFun-LED" deviceset="LED" device="5MM" value="Amber"/>
+<part name="L2" library="SparkFun-LED" deviceset="LED" device="5MM" value="Yellow"/>
 <part name="L3" library="SparkFun-LED" deviceset="LED" device="5MM" value="Green"/>
 <part name="L4" library="SparkFun-LED" deviceset="LED" device="5MM" value="Blue"/>
 <part name="BAT2" library="SparkFun-Electromechanical" deviceset="BATTERY" device="AAA-KIT"/>
@@ -6108,7 +6108,7 @@ Standard 3-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <part name="RB7" library="SparkFun-Resistors" deviceset="RESISTOR" device="0805-RES" value="100Ω"/>
 <part name="RB8" library="SparkFun-Resistors" deviceset="RESISTOR" device="0805-RES" value="100Ω"/>
 <part name="PF8" library="adafruit" deviceset="PINHD-1X1" device=""/>
-<part name="L5" library="SparkFun-LED" deviceset="LED" device="5MM" value="Yellow"/>
+<part name="L5" library="SparkFun-LED" deviceset="LED" device="5MM" value="Orange"/>
 <part name="OFF/ON" library="SparkFun-Electromechanical" deviceset="SWITCH-SPDT" device="KIT"/>
 <part name="RB11" library="SparkFun-Resistors" deviceset="RESISTOR" device="0805-RES" value="100Ω"/>
 <part name="S1" library="SparkFun-Electromechanical" deviceset="SWITCH-SPDT" device="KIT"/>

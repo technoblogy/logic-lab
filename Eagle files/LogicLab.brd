@@ -1216,7 +1216,7 @@ design rules under a new name.</description>
 <element name="JP8" library="adafruit" package="1X03" value="" x="16.51" y="17.78" smashed="yes" rot="R90">
 <attribute name="VALUE" x="19.685" y="13.97" size="1.27" layer="27" rot="R90"/>
 </element>
-<element name="L2" library="SparkFun-LED" package="LED5MM" value="Amber" x="133.35" y="55.88" smashed="yes">
+<element name="L2" library="SparkFun-LED" package="LED5MM" value="Yellow" x="133.35" y="55.88" smashed="yes">
 <attribute name="NAME" x="133.35" y="59.69" size="1.27" layer="25" ratio="10" align="bottom-center"/>
 <attribute name="VALUE" x="131.4704" y="50.2666" size="1.27" layer="27" ratio="10"/>
 </element>
@@ -1246,7 +1246,7 @@ design rules under a new name.</description>
 <element name="PF8" library="adafruit" package="1X01" value="" x="127" y="21.59" smashed="yes">
 <attribute name="VALUE" x="125.73" y="18.415" size="1.27" layer="27"/>
 </element>
-<element name="L5" library="SparkFun-LED" package="LED5MM" value="Yellow" x="133.35" y="21.59" smashed="yes">
+<element name="L5" library="SparkFun-LED" package="LED5MM" value="Orange" x="133.35" y="21.59" smashed="yes">
 <attribute name="NAME" x="133.35" y="25.4" size="1.27" layer="25" ratio="10" align="bottom-center"/>
 <attribute name="VALUE" x="131.4704" y="15.9766" size="1.27" layer="27" ratio="10"/>
 </element>
