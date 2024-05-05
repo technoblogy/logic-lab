@@ -3,4 +3,4 @@ Provides a selection of 12 logic gates that you can interconnect with patch cabl
 
 For more information see <http://www.technoblogy.com/show?4FFY>.
 
-Alternatively see [Logic Lab 1G](https://github.com/technoblogy/logic-lab-1g) which is implemented using 12 individual logic gates.
+Alternatively see [Logic Lab 1G](https://github.com/technoblogy/logic-lab-1g) which is functionally identical, but implemented using 12 individual logic gates.
